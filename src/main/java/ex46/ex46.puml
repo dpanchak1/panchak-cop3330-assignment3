@@ -1,0 +1,9 @@
+@startuml
+class App
+{
+
+}
+App <|-- ReadInput
+App <|-- PrintHistogram
+
+@enduml

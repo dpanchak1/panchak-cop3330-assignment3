@@ -1,0 +1,9 @@
+@startuml
+class App
+{
+
+}
+App <|-- getFname
+App <|-- replace
+
+@enduml
